@@ -1,0 +1,18 @@
+.contacts{
+
+    width: 58% !important;
+    border-collapse: collapse !important;
+    margin-left: 21% ;
+}
+.contacts thead{
+    background: #eee !important;
+}
+.contacts thead th, .contacts tbody td{
+    padding: 3px !important;
+    border: 1px solid #000 !important;
+}
+
+div .lien a{
+    width: 58% !important;
+    margin-left: 0% ;
+}
